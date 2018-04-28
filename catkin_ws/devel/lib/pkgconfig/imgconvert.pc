@@ -1,0 +1,8 @@
+prefix=/home/huayao/catkin_ws/devel
+
+Name: imgconvert
+Description: Description of imgconvert
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/huayao/catkin_ws/devel/lib 
+Requires: 
